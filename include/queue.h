@@ -1,8 +1,3 @@
-/*
- * DO NOT MODIFY THIS FILE
- * IT WILL BE REPLACED DURING GRADING
- */
-
 #ifndef QUEUE_H
 #define QUEUE_H
 
