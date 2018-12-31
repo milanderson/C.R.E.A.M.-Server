@@ -1,14 +1,9 @@
-/*
- * DO NOT MODIFY THIS FILE
- * IT WILL BE REPLACED DURING GRADING
- */
-
 #ifndef UTILS_H
 #define UTILS_H
 #include <stdint.h>
 
-#ifdef EC
-#include "extracredit.h"
+#ifdef EXT
+#include "ext.h"
 #else
 #include "hashmap.h"
 #endif
