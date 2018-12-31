@@ -1,5 +1,5 @@
-#ifndef EXTRACREDIT_H
-#define EXTRACREDIT_H
+#ifndef EXT_H
+#define EXT_H
 
 #include <pthread.h>
 #include <semaphore.h>
@@ -43,9 +43,7 @@ typedef struct hashmap_t {
     bool invalid;
 } hashmap_t;
 
-/* **DO NOT** modify the function prototypes below */
-
-/*
+/* 
  * Create a new hash map.
  *
  * @param capacity The number of elements the map can hold.
@@ -107,4 +105,4 @@ bool clear_map(hashmap_t *self);
  */
 bool invalidate_map(hashmap_t *self);
 
-#endif
+#endif /*EXT_H*/
