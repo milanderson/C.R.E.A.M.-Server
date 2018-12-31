@@ -1,8 +1,3 @@
-/*
- * You may modify any fields in the structs below.
- * **DO NOT** change the names of the structs or the function prototypes.
- */
-
 #ifndef EXTRACREDIT_H
 #define EXTRACREDIT_H
 
