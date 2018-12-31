@@ -1,8 +1,3 @@
-/*
- * DO NOT MODIFY THIS FILE
- * IT WILL BE REPLACED DURING GRADING
- */
-
 #ifndef CREAM_H
 #define CREAM_H
 #include <stdint.h>
